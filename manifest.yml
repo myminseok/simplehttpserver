@@ -1,0 +1,7 @@
+---
+applications:
+- name: simple 
+  instances: 1
+  memory: 128M
+  buildpacks:
+  - python_buildpack
